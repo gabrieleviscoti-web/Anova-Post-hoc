@@ -17,7 +17,7 @@ import seaborn as sns
 df = sns.load_dataset("iris")
 ``` 
 ## Analysis Pipeline
-1. **Exploratory Data Analysis**
+1. **Exploratory Data Analysis**<br>
 - Descriptive statistics
 
 - Distribution plots (histogram + KDE)
