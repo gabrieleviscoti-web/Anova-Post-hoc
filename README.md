@@ -1,7 +1,6 @@
 # Anova post-hoc
 This project applies one-way ANOVA (Analysis of Variance) to evaluate whether the variable petal_length differs significantly across the three Iris species: Setosa, Versicolor, and Virginica.
 The analysis is designed to demonstrate skills in inferential statistics, assumption checking, data analysis, visualization, and interpretation of statistical results.
-It serves as a complete, reproducible example suitable for a STEM portfolio, especially for roles in Data Analysis, Data Science, and Biomedical Engineering.
 
 ## Project Objective
 Determine whether the mean petal length differs significantly across the three Iris species and identify which specific pairs of species show statistically significant differences using post-hoc Tukey HSD.
